@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
+* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
+* **Diajukan oleh:** 123456
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
