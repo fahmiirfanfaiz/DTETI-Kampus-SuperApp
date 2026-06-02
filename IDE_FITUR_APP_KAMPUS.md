@@ -25,11 +25,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-* **Nama Fitur:** Fitur Transparansi Nilai Mahasiswa
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk melihat setiap komponen nilainya untuk setiap mata kuliah yang diikutinya, di sisi lain dosen pun bisa mengisi setiap komponen mahasiswa secara transparan.
-* **Target Pengguna Utama:** Mahasiswa dan Dosen DTETI FT UGM
-* **Value Proposition:** Memungkinkan mahasiswa untuk mengevaluasi dirinya lebih awal, sehingga meningkatkan peluang ia mendapatkan nilai yang lebih baik melalui evaluasi secara iteratif dan inkremental.
-* **Diajukan oleh:** 520563
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
